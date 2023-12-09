@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+⁸# -*- coding: utf-8 -*-
 # vStream https://github.com/Kodi-vStream/venom-xbmc-addons
 import re
 
